@@ -28,7 +28,7 @@
 ```bash
 git clone https://github.com/ghostvyle/RacoonX.git
 cd RacoonX
-chmod +x racoonx.sh
+chmod +x RacoonX.sh
 chmod +x install_tools.sh
 ./install_tools.sh
 ./RacoonX.sh
